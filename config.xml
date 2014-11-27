@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.gmail@diegofeliperoa"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>CakeMake</name>
+
+    <description>
+       Aplicación para elaborar cup cackes   
+    </description>
+
+    <author href="https://build.phonegap.com" email="angiecruzgudi@gmail.com">
+        Diego Roa, Allison Sandoval, Andres Moreno
+    </author>
+    <icon src="icon.png" />
+
+</widget>
